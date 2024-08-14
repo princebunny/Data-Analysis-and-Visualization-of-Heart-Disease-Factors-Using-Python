@@ -2,7 +2,7 @@
 
 This project focuses on the analysis of heart disease data to identify key factors contributing to heart disease and predict the likelihood of a heart attack. The dataset used in this project is sourced from Kaggle, and the analysis is conducted using Python and its powerful data analysis libraries in a Jupyter Notebook environment.
 
-## Project Overview
+## Data Analysis Factor
 
 **age**
 
