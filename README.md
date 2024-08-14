@@ -115,7 +115,7 @@ This project focuses on the analysis of heart disease data to identify key facto
 
 * PRINCE KUMAR - praj83351@.com
 
-* Project Link: https://github.com/princebunny/heart-disease-analysis
+* Project Link: [https://github.com/princebunny/heart-disease-analysis](https://github.com/princebunny/Data-Analysis-and-Visualization-of-Heart-Disease-Factors-Using-Python/blob/main/README.md)
 
 ## Acknowledgments
 * Thanks to Kaggle for providing the dataset used in this project.
