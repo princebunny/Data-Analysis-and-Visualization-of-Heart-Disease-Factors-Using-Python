@@ -10,13 +10,13 @@ This project focuses on the analysis of heart disease data to identify key facto
 
 **chest pain type(4 values)**
 
-   * Value 0: typical angina**
+   * Value 0: typical angina
    
-   * Value 1: atypical angina**
+   * Value 1: atypical angina
    
-   * Value 2: non-anginal pain**
+   * Value 2: non-anginal pain
    
-   * Value 3: asymptomatic**
+   * Value 3: asymptomatic
    
 **trestbps:** resting blood pressure(in mm Hg on admission to the hospital)
 
@@ -99,7 +99,33 @@ This project focuses on the analysis of heart disease data to identify key facto
        jupyter notebook HeartDiseaseAnalysis.ipynb
    
  * Follow the notebook to explore the data analysis, visualizations, and predictive 
-   modeling steps 
+   modeling steps
+   
+## Features
+
+* Exploratory Data Analysis (EDA): Visualize and analyze the dataset to uncover 
+  patterns and insights.
+  
+* Predictive Modeling: Build and evaluate machine learning models to predict heart 
+  disease risk.
+  
+* Data Visualization: Use Python libraries to create informative charts and graphs.
+
+## Contact
+
+* PRINCE KUMAR - praj83351@.com
+
+* Project Link: https://github.com/princebunny/heart-disease-analysis
+
+## Acknowledgments
+* Thanks to Kaggle for providing the dataset used in this project.
+  
+* Acknowledgment to the developers of the Python libraries used in this project.
+  
+* Special thanks to the developers of Jupyter Notebook for creating an interactive 
+  computing environment that enhances data analysis.
+  
+* Gratitude to everyone who has contributed to this project.
 
    
 
